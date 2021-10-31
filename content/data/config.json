@@ -14,7 +14,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Storho",
+            "title": "Store",
             "url": "/store",
             "style": "link"
         },
